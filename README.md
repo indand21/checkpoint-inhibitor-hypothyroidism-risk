@@ -172,16 +172,9 @@ We welcome contributions to improve the application:
 4. Push to the branch (`git push origin feature/enhancement`)
 5. Create a Pull Request
 
-## 📖 References
-
-- Checkpoint inhibitor-induced thyroid dysfunction literature
-- QSP modeling methodologies for immunotherapy
-- Clinical guidelines for thyroid monitoring during checkpoint inhibitor therapy
-
 ## 📧 Contact
 
-**Developer**: Anand Srinivasan  
-**Email**: indand21@hotmail.com  
+**Developer**: Anand Srinivasan
 **GitHub**: [@indand21](https://github.com/indand21)
 
 ## 📄 License
